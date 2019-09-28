@@ -1,0 +1,22 @@
+{
+  "name": "hello-asdi",
+  "version": "1.0.0",
+  "description": "hello world app for asdi39",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MSSR-code/hello-asdi.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MSSR-code/hello-asdi/issues"
+  },
+  "homepage": "https://github.com/MSSR-code/hello-asdi#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
